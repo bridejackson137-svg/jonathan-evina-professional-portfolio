@@ -46,7 +46,7 @@ Théorie originale de la **Tryperposition** : un cadre unifié où l'Information
 - **Job ID IBM :** `job_ibm_brisbane_a4abd05e31f9`
 - **Job ID Quandela :** `job_quandela_ascella_edd68f057115`
 
-📄 [Article scientifique complet (Preprint)](./ecoute/article_tryperposition_qpu_zk.pdf)
+📄 [Article scientifique complet (Preprint)](./docs/article_tryperposition_qpu_zk.pdf)
 🔐 [Preuve ZK-STARK (JSON vérifiable)](./ecoute/qpu_zk_stark_receipt.json)
 📊 [Données brutes QPU (JSON)](./ecoute/qpu_physical_results_raw.json)
 📋 [Rapport comparatif Théorie vs QPU (JSON)](./ecoute/compare_theory_vs_qpu_report.json)
@@ -119,14 +119,14 @@ Le système est construit sur une architecture modulaire "Secteur", assurant une
 | **TopoZK** | Intégrité des Données | Preuves Zero-Knowledge |
 | **Planetary Solver** | Optimisation Globale | UMAP, KD-Trees |
 
-### 🔗 Modules Spécialisés
-| Module | Rôle Industriel | Statut |
-|--------|----------------|--------|
-| **Crypto-VOLT-v2** | Sécurité Post-Quantum + Preuves ZK CPU-Only | [GitHub](https://github.com/bridejackson137-svg/Crypto-VOLT-v2) · ✅ Audité |
-| **RATISS Neuralink-POC** | Décodage Neuronal Temps Réel < 5ms CPU-Only | [GitHub](https://github.com/bridejackson137-svg/RATISS-Neuralink-POC) · ⚙️ POC Simulé |
-| **VOLT Explorer** | Visualisation Interactive Preuves TopoZK | [GitHub](https://github.com/bridejackson137-svg/volt-explorer) · 🖥️ Live |
-| **VOLT Compare** | Comparaison RSA-2048 vs VOLT Post-Quantique | [GitHub](https://github.com/bridejackson137-svg/volt-compare-standalone) · 📊 Reproductible |
-| **p53-MVS** | Science Ouverte — Photoactivation p53-R249S à 365nm | [GitHub](https://github.com/bridejackson137-svg/p53-mvs-365nm) · 🔬 MVS Protocol |
+### 📸 Visuels & Preuves
+| Architecture RATISS | Topologie Complexe |
+| :---: | :---: |
+| ![Architecture](./assets/ratiss_v2_architecture.jpg) | ![Topologie](./assets/ratiss_v2_topology.jpg) |
+
+| Interface Chat UI | Analyse de Protéines |
+| :---: | :---: |
+| ![Chat UI](./assets/ratiss_v2_chat_ui.PNG) | ![Protéine](./assets/Figure_1_Tetramer.png) |
 
 ---
 
